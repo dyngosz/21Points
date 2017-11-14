@@ -1,4 +1,4 @@
-import org.gradle.internal.os.OperatingSystem
+Nimport org.gradle.internal.os.OperatingSystem
 
 buildscript {
     repositories {
