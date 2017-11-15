@@ -1,0 +1,23 @@
+{
+    "twentyOnePointsApp": {
+        "weight" : {
+            "home": {
+                "title": "Weights",
+                "createLabel": "Dodaj Weight",
+                "createOrEditLabel": "Dodaj lub edytuj: Weight"
+            },
+            "created": "Utworzono nowy Weight z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Weight z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Weight z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Weight {{ id }}?"
+            },
+            "detail": {
+                "title": "Weight"
+            },
+            "date": "Date",
+            "weight": "Weight",
+            "user": "User"
+        }
+    }
+}
