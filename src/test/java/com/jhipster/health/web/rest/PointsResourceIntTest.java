@@ -89,7 +89,7 @@ public class PointsResourceIntTest {
      * Create an entity for this test.
      *
      * This is a static method, as tests for other entities might also need it,
-     * if they test an entity which requires the current entity.
+     * if they test an entity which requires the currengitt entity.
      */
     public static Points createEntity(EntityManager em) {
         Points points = new Points()
